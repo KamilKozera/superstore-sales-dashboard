@@ -6,7 +6,8 @@ This repository contains a comprehensive sales performance dashboard for "Real C
 
 The following GIF showcases the dashboard's key features and interactivity, allowing users to dynamically filter and analyze the data.
 
-![Dashboard Demo](PBIDesktop_RCbkz8DDDiv.gif)
+![PBIDesktop_RCbkz8DDiv](https://github.com/user-attachments/assets/e72be645-2497-44e3-bcd8-fdc6e6c34cda)
+
 
 ## Project Overview
 
